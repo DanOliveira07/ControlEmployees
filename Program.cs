@@ -28,8 +28,7 @@ namespace ListasFinal
                 list.Add(new Employees(id, name, salary));
                 Console.WriteLine();
             }
-
-            // Condicional structure for ask if you want increase any salary
+                        // Condicional structure for ask if you want increase any salary
             Console.Write("Do you want to increase any salary?(Y/N)");
             char resp = char.Parse(Console.ReadLine());
             if (resp == 'Y' || resp == 'y')
