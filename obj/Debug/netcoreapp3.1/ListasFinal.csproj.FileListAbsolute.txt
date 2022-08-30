@@ -1,0 +1,14 @@
+C:\.NET\ListasFinal\ListasFinal\bin\Debug\netcoreapp3.1\ListasFinal.exe
+C:\.NET\ListasFinal\ListasFinal\bin\Debug\netcoreapp3.1\ListasFinal.deps.json
+C:\.NET\ListasFinal\ListasFinal\bin\Debug\netcoreapp3.1\ListasFinal.runtimeconfig.json
+C:\.NET\ListasFinal\ListasFinal\bin\Debug\netcoreapp3.1\ListasFinal.runtimeconfig.dev.json
+C:\.NET\ListasFinal\ListasFinal\bin\Debug\netcoreapp3.1\ListasFinal.dll
+C:\.NET\ListasFinal\ListasFinal\bin\Debug\netcoreapp3.1\ListasFinal.pdb
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.csproj.AssemblyReference.cache
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.AssemblyInfoInputs.cache
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.AssemblyInfo.cs
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.csproj.CoreCompileInputs.cache
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.dll
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.pdb
+C:\.NET\ListasFinal\ListasFinal\obj\Debug\netcoreapp3.1\ListasFinal.genruntimeconfig.cache
