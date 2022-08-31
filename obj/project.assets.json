@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.NET\\ListasFinal\\ListasFinal\\ListasFinal.csproj",
-      "projectName": "ListasFinal",
-      "projectPath": "C:\\.NET\\ListasFinal\\ListasFinal\\ListasFinal.csproj",
+      "projectUniqueName": "C:\\.NET\\ListasFinal\\ListasFinal\\EmployeesControl.csproj",
+      "projectName": "EmployeesControl",
+      "projectPath": "C:\\.NET\\ListasFinal\\ListasFinal\\EmployeesControl.csproj",
       "packagesPath": "C:\\Users\\dnl07\\.nuget\\packages\\",
       "outputPath": "C:\\.NET\\ListasFinal\\ListasFinal\\obj\\",
       "projectStyle": "PackageReference",
